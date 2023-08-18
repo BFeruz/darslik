@@ -1,1 +1,4 @@
-# darslik
+print(' = ')
+print("/ \ ")
+print(") (")
+print("[_]")
