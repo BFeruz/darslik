@@ -1,1 +1,2 @@
-# darslik
+print("( _ )")
+print(" ) ( ")
