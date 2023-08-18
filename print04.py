@@ -1,1 +1,3 @@
-# darslik
+print("  *  ")
+print(" * * ")
+print("* * *")
